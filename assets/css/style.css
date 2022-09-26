@@ -1,0 +1,27 @@
+:root {
+    --my-green: #00DF5E;
+}
+
+body {
+    font-family: 'DM Sans' !important;
+}
+
+.fw-700 {
+    font-weight: 700 !important;
+}
+
+.fw-500 {
+    font-weight: 500 !important;
+}
+
+.fw-400 {
+    font-weight: 400 !important;
+}
+
+.bg-myGreen {
+    background-color: var(--my-green) !important;
+}
+
+.border-myGreen {
+    border-color: var(--my-green) !important;
+}
