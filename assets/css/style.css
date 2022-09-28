@@ -1,5 +1,6 @@
 :root {
     --my-green: #00DF5E;
+    --my-dark: #212121;
     --bs-navbar-color: rgba(255, 255, 255, 1) !important;
 }
 
@@ -29,6 +30,10 @@ body {
 
 .btn.bg-myGreen:hover {
     background-color: #008036 !important;
+}
+
+.bg-myDark {
+    background-color: var(--my-dark) !important;
 }
 
 .w-65 {
