@@ -27,6 +27,10 @@ body {
     border-color: var(--my-green) !important;
 }
 
+.btn.bg-myGreen:hover {
+    background-color: #008036 !important;
+}
+
 .w-65 {
     width: 65%!important;
 }
