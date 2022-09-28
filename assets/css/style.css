@@ -27,6 +27,14 @@ body {
     border-color: var(--my-green) !important;
 }
 
-.custom-toggler .navbar-toggler-icon {
-    background-image: url("../img/hamburguerMenu.svg");
+.w-65 {
+    width: 65%!important;
+}
+
+.custom-toggler-light .navbar-toggler-icon {
+    background-image: url("../img/lightHamburguerMenu.svg");
+}
+
+.custom-toggler-dark .navbar-toggler-icon {
+    background-image: url("../img/darkHamburguerMenu.svg");
 }
