@@ -28,6 +28,10 @@ body {
     border-color: var(--my-green) !important;
 }
 
+.border-bottom-myGreen {
+    border-bottom-color: var(--my-green) !important;
+}
+
 .btn.bg-myGreen:hover {
     background-color: #008036 !important;
 }
