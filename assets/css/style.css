@@ -44,6 +44,11 @@ body {
     width: 65%!important;
 }
 
+.skill {
+    max-height: 150px;
+    max-width: 150px;
+}
+
 .custom-toggler-light .navbar-toggler-icon {
     background-image: url("../img/lightHamburguerMenu.svg");
 }
