@@ -49,6 +49,10 @@ body {
     max-width: 150px;
 }
 
+.no-decoration {
+    text-decoration: none;
+}
+
 .custom-toggler-light .navbar-toggler-icon {
     background-image: url("../img/lightHamburguerMenu.svg");
 }
